@@ -307,8 +307,9 @@ Please keep PRs focused on a single feature or fix. For major changes, open an i
 
 ## License
 
-MIT License — free to use, modify, and distribute with attribution.
-
+© 2026 Ajim. All rights reserved.
+This project is not open source. No part of this codebase may be used, 
+copied, or distributed without explicit written permission from the author.
 ---
 
 *Built with Python, Streamlit, and a lot of coffee. If this helped you, give it a star.*
